@@ -1,0 +1,49 @@
+/*navbar*/
+.navbar{ background:rgb(64, 187, 224);}
+
+.nav-link , .navbar-brand{ color: white; }
+
+.nav-link{ margin-right: 1em !important;}
+
+.nav-link:hover{ background: white; color: orange; }
+
+.navbar-collapse{ justify-content: flex-end;}
+
+.navbar-toggler{  background: white !important;}
+
+
+/*header*/
+.header{
+    width: 100%
+   }
+
+   footer {
+	background-color: rgb(64, 187, 224);
+	position: absolute;
+	width: 100%;
+	height: auto;
+}
+
+
+
+footer ul li {
+	display: inline-block;
+	list-style: none;
+	float: right;
+	
+}
+
+footer p {
+	float: left;
+}
+
+footer a,
+footer p {
+
+	color:#fff;
+	vertical-align: middle;
+
+
+}
+
+   
